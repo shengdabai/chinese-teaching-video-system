@@ -1,0 +1,103 @@
+{
+  "project_id": "20260418_thank_you",
+  "export_preset": "youtube_shorts",
+  "timeline": [
+    {
+      "type": "brand_intro",
+      "source": "assets/brand/intro/intro_1s.mp4",
+      "duration": 1.0
+    },
+    {
+      "type": "shot",
+      "shot_number": 1,
+      "source": "projects/20260418_thank_you/normalized/shot_01.mp4",
+      "start_trim": 0.0,
+      "end_trim": 4.0,
+      "transition_in": "none",
+      "transition_out": "crossfade_0.3s"
+    },
+    {
+      "type": "shot",
+      "shot_number": 2,
+      "source": "projects/20260418_thank_you/normalized/shot_02.mp4",
+      "start_trim": 0.0,
+      "end_trim": 6.0,
+      "transition_in": "crossfade_0.3s",
+      "transition_out": "crossfade_0.3s"
+    },
+    {
+      "type": "shot",
+      "shot_number": 3,
+      "source": "projects/20260418_thank_you/normalized/shot_03.mp4",
+      "start_trim": 0.0,
+      "end_trim": 10.0,
+      "transition_in": "crossfade_0.3s",
+      "transition_out": "crossfade_0.3s"
+    },
+    {
+      "type": "shot",
+      "shot_number": 4,
+      "source": "projects/20260418_thank_you/normalized/shot_04.mp4",
+      "start_trim": 0.0,
+      "end_trim": 10.0,
+      "transition_in": "crossfade_0.3s",
+      "transition_out": "crossfade_0.3s"
+    },
+    {
+      "type": "shot",
+      "shot_number": 5,
+      "source": "projects/20260418_thank_you/normalized/shot_05.mp4",
+      "start_trim": 0.0,
+      "end_trim": 10.0,
+      "transition_in": "crossfade_0.3s",
+      "transition_out": "crossfade_0.3s"
+    },
+    {
+      "type": "shot",
+      "shot_number": 6,
+      "source": "projects/20260418_thank_you/normalized/shot_06.mp4",
+      "start_trim": 0.0,
+      "end_trim": 8.0,
+      "transition_in": "crossfade_0.3s",
+      "transition_out": "crossfade_0.3s"
+    },
+    {
+      "type": "shot",
+      "shot_number": 7,
+      "source": "projects/20260418_thank_you/normalized/shot_07.mp4",
+      "start_trim": 0.0,
+      "end_trim": 7.0,
+      "transition_in": "crossfade_0.3s",
+      "transition_out": "crossfade_0.3s"
+    },
+    {
+      "type": "brand_outro",
+      "source": "assets/brand/outro/cta_3s.mp4",
+      "duration": 3.0
+    }
+  ],
+  "audio_layers": [
+    {
+      "type": "voiceover",
+      "source": "projects/20260418_thank_you/08_voiceover_audio.wav",
+      "volume": 1.0
+    },
+    {
+      "type": "bgm",
+      "source": "[TODO: Select BGM file]",
+      "volume_normal": 0.3,
+      "volume_ducked": 0.08,
+      "duck_when": "voiceover_active",
+      "loop": true
+    }
+  ],
+  "subtitle_layer": {
+    "source": "projects/20260418_thank_you/07_subtitles.ass",
+    "burn_in": true
+  },
+  "outro": {
+    "type": "brand_outro",
+    "source": "assets/brand/outro/cta_3s.mp4",
+    "duration": 3.0
+  }
+}

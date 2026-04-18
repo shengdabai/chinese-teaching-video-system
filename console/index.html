@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chinese Teaching Video Console</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand-block">
+          <div class="brand-mark">🐼</div>
+          <div>
+            <p class="eyebrow">AI Chinese Teaching Pipeline</p>
+            <h1>Production Console</h1>
+          </div>
+        </div>
+        <div class="topbar-status">
+          <span id="current-project-badge" class="badge">Current Project: none</span>
+          <button id="export-all-state" class="ghost-button" type="button">Export Local Data</button>
+        </div>
+      </header>
+
+      <nav class="tabbar" aria-label="Production Modules">
+        <button class="tab-button active" data-tab="topic-intake" type="button">1. Topic Intake</button>
+        <button class="tab-button" data-tab="script-engine" type="button">2. Script Engine</button>
+        <button class="tab-button" data-tab="prompt-builder" type="button">3. Prompt Pack Builder</button>
+        <button class="tab-button" data-tab="clip-inbox" type="button">4. Clip Inbox</button>
+        <button class="tab-button" data-tab="auto-editor" type="button">5. Auto Editor</button>
+        <button class="tab-button" data-tab="publish-dashboard" type="button">6. Publish Dashboard</button>
+      </nav>
+
+      <main class="main-grid">
+        <aside class="sidebar">
+          <section class="panel compact">
+            <h2>Quick Notes</h2>
+            <ul class="plain-list">
+              <li>所有画面文字统一后期叠加。</li>
+              <li>优先 Image-to-Video，角色块逐字复制。</li>
+              <li>标准导出：9:16 / 1080x1920 / 30fps / H.264。</li>
+              <li>上传 YouTube 时必须勾选 AI 内容标注。</li>
+            </ul>
+          </section>
+          <section class="panel compact">
+            <h2>Storage</h2>
+            <p class="muted">控制台数据保存在浏览器 localStorage，可脱机使用。</p>
+            <button id="seed-demo-data" class="secondary-button" type="button">Load Demo Project</button>
+            <button id="clear-console-data" class="danger-button" type="button">Clear Console Data</button>
+          </section>
+        </aside>
+
+        <section class="content">
+          <div id="view-topic-intake" class="tab-panel active"></div>
+          <div id="view-script-engine" class="tab-panel"></div>
+          <div id="view-prompt-builder" class="tab-panel"></div>
+          <div id="view-clip-inbox" class="tab-panel"></div>
+          <div id="view-auto-editor" class="tab-panel"></div>
+          <div id="view-publish-dashboard" class="tab-panel"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./components/topic-intake.js"></script>
+    <script src="./components/script-engine.js"></script>
+    <script src="./components/prompt-builder.js"></script>
+    <script src="./components/clip-inbox.js"></script>
+    <script src="./components/auto-editor.js"></script>
+    <script src="./components/publish-dashboard.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

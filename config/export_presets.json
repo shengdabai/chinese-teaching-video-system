@@ -1,0 +1,27 @@
+{
+  "youtube_shorts": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "codec": "libx264",
+    "preset": "slow",
+    "crf": 18,
+    "audio_codec": "aac",
+    "audio_bitrate": "192k",
+    "pixel_format": "yuv420p",
+    "max_duration_seconds": 58,
+    "target_duration_seconds": 52
+  },
+  "tiktok": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "codec": "libx264",
+    "preset": "slow",
+    "crf": 18,
+    "audio_codec": "aac",
+    "audio_bitrate": "192k",
+    "pixel_format": "yuv420p",
+    "max_duration_seconds": 60
+  }
+}

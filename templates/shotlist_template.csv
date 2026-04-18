@@ -1,0 +1,8 @@
+shot_number,shot_name,start_time,end_time,duration_sec,camera_angle,camera_movement,character_action,environment,text_overlay_cn,text_overlay_pinyin,text_overlay_en,generation_platform,reusable_asset,status
+1,Hook,00:00:00,00:00:04,4,medium_front,static,surprised_expression,neutral_bg,,,,pixverse,,pending
+2,Vocab_Display,00:00:04,00:00:10,6,medium_front,static,pointing_right,classroom,谢谢,xièxie,thank you,pixverse,,pending
+3,Pronunciation,00:00:10,00:00:20,10,closeup_front,slow_push,talking_gesture,classroom,,,,pixverse,,pending
+4,Scene_1,00:00:20,00:00:30,10,medium_side,static,dialogue,coffee_shop,,,,pixverse,,pending
+5,Scene_2,00:00:30,00:00:40,10,medium_front,static,dialogue,restaurant,,,,jimeng,,pending
+6,Quiz,00:00:40,00:00:48,8,medium_front,static,thinking_pose,neutral_bg,,,,pixverse,,pending
+7,CTA,00:00:48,00:00:55,7,medium_front,static,waving,brand_bg,,,,reusable,waving_cta_001.mp4,pending

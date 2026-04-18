@@ -1,0 +1,25 @@
+# Voiceover Script — 20260418_thank_you
+
+## 语速标注: [normal] = 正常语速, [slow] = 慢速, [pause:1s] = 暂停1秒
+
+### Shot 1 — Hook (4s)
+[TODO: Write voiceover]
+
+### Shot 2 — Vocab_Display (6s)
+[TODO: Write voiceover]
+
+### Shot 3 — Pronunciation (10s)
+[TODO: Write voiceover]
+
+### Shot 4 — Scene_1 (10s)
+[TODO: Write voiceover]
+
+### Shot 5 — Scene_2 (10s)
+[TODO: Write voiceover]
+
+### Shot 6 — Quiz (8s)
+[TODO: Write voiceover]
+
+### Shot 7 — CTA (7s)
+[TODO: Write voiceover]
+

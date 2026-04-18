@@ -1,0 +1,45 @@
+{
+  "channel_name": "[Your Channel Name]",
+  "channel_tagline": "Learn Chinese the Fun Way!",
+  "brand_colors": {
+    "primary": "#E53935",
+    "secondary": "#FFD600",
+    "accent": "#43A047",
+    "text_light": "#FFFFFF",
+    "text_dark": "#212121"
+  },
+  "subtitle_style": {
+    "chinese": {
+      "font": "Noto Sans SC Bold",
+      "size": 58,
+      "color": "#FFFFFF",
+      "outline_color": "#000000",
+      "outline_width": 3,
+      "position": "bottom_center",
+      "margin_bottom": 120
+    },
+    "pinyin": {
+      "font": "Noto Sans Regular",
+      "size": 36,
+      "color": "#FFD600",
+      "position": "above_chinese",
+      "margin_bottom": 180
+    },
+    "english": {
+      "font": "Noto Sans Regular",
+      "size": 32,
+      "color": "#BBDEFB",
+      "position": "below_chinese",
+      "margin_bottom": 60
+    }
+  },
+  "intro_duration_seconds": 1.0,
+  "outro_duration_seconds": 3.0,
+  "bgm_volume_normal": 0.3,
+  "bgm_volume_ducked": 0.08,
+  "default_cta": "Follow for daily Chinese lessons! 🐼",
+  "social_links": {
+    "youtube": "[Your YouTube URL]",
+    "tiktok": "[Your TikTok URL]"
+  }
+}

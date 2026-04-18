@@ -1,0 +1,32 @@
+# Voiceover Script — [PROJECT_ID]
+
+## 使用说明
+- `[normal]`：正常语速
+- `[slow]`：慢速示范
+- `[pause:1s]`：停顿 1 秒
+- 英文讲解为主，中文词汇必须标准普通话
+
+### Shot 1 — Hook
+[normal] Did you know the most useful Chinese word is not always 你好?
+
+### Shot 2 — Vocab Display
+[normal] Today we learn: [中文词汇].
+[slow] [中文词汇]
+
+### Shot 3 — Pronunciation
+[normal] Listen carefully.
+[slow] [拼音]
+[slow] [拼音]
+
+### Shot 4 — Scene 1
+[normal] In a real conversation, you can say...
+
+### Shot 5 — Scene 2
+[normal] Here is another situation where native speakers use it.
+
+### Shot 6 — Quiz
+[normal] How would you answer this?
+[pause:2s]
+
+### Shot 7 — CTA
+[normal] Follow for daily Chinese lessons.

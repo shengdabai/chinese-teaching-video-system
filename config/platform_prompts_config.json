@@ -1,0 +1,55 @@
+{
+  "pixverse": {
+    "platform_name": "PixVerse V6",
+    "mode": "image-to-video",
+    "default_model": "V6 Standard",
+    "default_resolution": "1080p",
+    "default_aspect_ratio": "9:16",
+    "default_duration": "15s",
+    "motion_strength": "medium-low",
+    "prompt_structure": "[CHARACTER_BLOCK_EN] + [ACTION] + [ENVIRONMENT] + [LIGHTING] + [CAMERA]",
+    "prompt_rules": [
+      "Use literal physical descriptions only, no metaphors or creative adjectives",
+      "Always start with character identity block",
+      "Describe only what is visible and audible",
+      "Never include any text/words/characters in the scene description",
+      "Specify camera angle and movement explicitly"
+    ],
+    "negative_prompt_default": "text, words, letters, subtitles, captions, watermark, blurry, distorted face, extra limbs, duplicate characters"
+  },
+  "jimeng": {
+    "platform_name": "即梦AI",
+    "mode": "image-to-video",
+    "default_model": "视频3.5 Pro",
+    "prompt_structure": "[CHARACTER_BLOCK_CN] + [动作] + [环境] + [灯光] + [镜头]",
+    "prompt_rules": [
+      "使用中文描述",
+      "以角色身份块开头",
+      "只描述可见和可听的内容",
+      "场景中绝不包含任何文字",
+      "明确指定镜头角度和运动"
+    ],
+    "use_for": [
+      "环境氛围镜头",
+      "中式场景",
+      "备选镜头"
+    ]
+  },
+  "liblib": {
+    "platform_name": "LiblibAI",
+    "mode": "text-to-image / image-to-image",
+    "use_for": [
+      "角色参考图",
+      "关键帧图",
+      "封面图",
+      "表情包"
+    ],
+    "prompt_rules": [
+      "Always include full character identity block",
+      "Specify exact pose and expression needed",
+      "Include background description matching the shot",
+      "Use consistent style keywords across all generations"
+    ],
+    "style_keywords": "cartoon style, 3D render, Pixar style, soft lighting, vibrant colors"
+  }
+}

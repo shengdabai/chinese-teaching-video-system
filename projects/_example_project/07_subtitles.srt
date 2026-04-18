@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:04,000
+[EN] [TODO: English text for Hook]
+[CN] [TODO: 中文文本]
+
+2
+00:00:04,000 --> 00:00:10,000
+[EN] [TODO: English text for Vocab_Display]
+[CN] [TODO: 中文文本]
+
+3
+00:00:10,000 --> 00:00:20,000
+[EN] [TODO: English text for Pronunciation]
+[CN] [TODO: 中文文本]
+
+4
+00:00:20,000 --> 00:00:30,000
+[EN] [TODO: English text for Scene_1]
+[CN] [TODO: 中文文本]
+
+5
+00:00:30,000 --> 00:00:40,000
+[EN] [TODO: English text for Scene_2]
+[CN] [TODO: 中文文本]
+
+6
+00:00:40,000 --> 00:00:48,000
+[EN] [TODO: English text for Quiz]
+[CN] [TODO: 中文文本]
+
+7
+00:00:48,000 --> 00:00:55,000
+[EN] [TODO: English text for CTA]
+[CN] [TODO: 中文文本]
+

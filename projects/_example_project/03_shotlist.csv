@@ -1,0 +1,8 @@
+shot_number,shot_name,start_time,end_time,duration_sec,camera,character_action,environment,generation_platform,reusable_asset,status
+1,Hook,00:00:00.000,00:00:04.000,4,"medium shot, front, static",surprised expression,[TODO],pixverse,,pending
+2,Vocab_Display,00:00:04.000,00:00:10.000,6,"medium shot, front, static",pointing at chalkboard,[TODO],pixverse,,pending
+3,Pronunciation,00:00:10.000,00:00:20.000,10,"close-up, front, slow push","talking gesture, nodding to rhythm",[TODO],pixverse,,pending
+4,Scene_1,00:00:20.000,00:00:30.000,10,"medium shot, slight angle",dialogue scene,[TODO],pixverse,,pending
+5,Scene_2,00:00:30.000,00:00:40.000,10,"medium shot, front","dialogue scene, different environment",[TODO],jimeng,,pending
+6,Quiz,00:00:40.000,00:00:48.000,8,"medium shot, front, static",thinking pose,[TODO],pixverse,,pending
+7,CTA,00:00:48.000,00:00:55.000,7,"medium shot, front, static",waving goodbye,[TODO],reusable,,pending

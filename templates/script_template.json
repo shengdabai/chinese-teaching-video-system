@@ -1,0 +1,44 @@
+{
+  "project_id": "PROJECT_ID",
+  "topic": "TOPIC",
+  "template_type": "A_55s | B_35s",
+  "target_audience": "absolute_beginner | beginner | intermediate | business | children",
+  "style": "cute | professional | casual",
+  "series_tag": "SERIES_TAG",
+  "total_duration_target": 55,
+  "shots": [
+    {
+      "shot_number": 1,
+      "shot_name": "Hook",
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:04.000",
+      "duration_seconds": 4,
+      "voiceover_text_en": "",
+      "voiceover_text_cn": "",
+      "voiceover_speed": "normal",
+      "on_screen_text": {
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+      },
+      "character_action": "",
+      "environment": "",
+      "camera": "medium shot, front, static",
+      "generation_platform": "pixverse",
+      "reusable_asset": null,
+      "notes": ""
+    }
+  ],
+  "audio": {
+    "voiceover_language": "en+cn",
+    "voiceover_style": "friendly, clear",
+    "bgm_mood": "upbeat, cute",
+    "bgm_file": ""
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "tags": [],
+    "thumbnail_text": ""
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "project_id": "20260418_thank_you",
+  "topic_cn": "谢谢",
+  "topic_en": "Thank You",
+  "template_type": "A_55s",
+  "target_audience": "beginner",
+  "style": "cute",
+  "series_tag": "DailyMandarin",
+  "total_duration_target": 55,
+  "shots": [
+    {
+      "shot_number": 1,
+      "shot_name": "Hook",
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:04.000",
+      "duration_seconds": 4,
+      "voiceover_text_en": "[TODO: Write EN voiceover for Hook]",
+      "voiceover_text_cn": "[TODO: Write CN voiceover for Hook]",
+      "character_action": "surprised expression",
+      "environment": "[TODO: Specify environment]",
+      "camera": "medium shot, front, static",
+      "generation_platform": "pixverse",
+      "reusable_asset": null,
+      "on_screen_text": {
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+      }
+    },
+    {
+      "shot_number": 2,
+      "shot_name": "Vocab_Display",
+      "start_time": "00:00:04.000",
+      "end_time": "00:00:10.000",
+      "duration_seconds": 6,
+      "voiceover_text_en": "[TODO: Write EN voiceover for Vocab_Display]",
+      "voiceover_text_cn": "[TODO: Write CN voiceover for Vocab_Display]",
+      "character_action": "pointing at chalkboard",
+      "environment": "[TODO: Specify environment]",
+      "camera": "medium shot, front, static",
+      "generation_platform": "pixverse",
+      "reusable_asset": null,
+      "on_screen_text": {
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+      }
+    },
+    {
+      "shot_number": 3,
+      "shot_name": "Pronunciation",
+      "start_time": "00:00:10.000",
+      "end_time": "00:00:20.000",
+      "duration_seconds": 10,
+      "voiceover_text_en": "[TODO: Write EN voiceover for Pronunciation]",
+      "voiceover_text_cn": "[TODO: Write CN voiceover for Pronunciation]",
+      "character_action": "talking gesture, nodding to rhythm",
+      "environment": "[TODO: Specify environment]",
+      "camera": "close-up, front, slow push",
+      "generation_platform": "pixverse",
+      "reusable_asset": null,
+      "on_screen_text": {
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+      }
+    },
+    {
+      "shot_number": 4,
+      "shot_name": "Scene_1",
+      "start_time": "00:00:20.000",
+      "end_time": "00:00:30.000",
+      "duration_seconds": 10,
+      "voiceover_text_en": "[TODO: Write EN voiceover for Scene_1]",
+      "voiceover_text_cn": "[TODO: Write CN voiceover for Scene_1]",
+      "character_action": "dialogue scene",
+      "environment": "[TODO: Specify environment]",
+      "camera": "medium shot, slight angle",
+      "generation_platform": "pixverse",
+      "reusable_asset": null,
+      "on_screen_text": {
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+      }
+    },
+    {
+      "shot_number": 5,
+      "shot_name": "Scene_2",
+      "start_time": "00:00:30.000",
+      "end_time": "00:00:40.000",
+      "duration_seconds": 10,
+      "voiceover_text_en": "[TODO: Write EN voiceover for Scene_2]",
+      "voiceover_text_cn": "[TODO: Write CN voiceover for Scene_2]",
+      "character_action": "dialogue scene, different environment",
+      "environment": "[TODO: Specify environment]",
+      "camera": "medium shot, front",
+      "generation_platform": "jimeng",
+      "reusable_asset": null,
+      "on_screen_text": {
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+      }
+    },
+    {
+      "shot_number": 6,
+      "shot_name": "Quiz",
+      "start_time": "00:00:40.000",
+      "end_time": "00:00:48.000",
+      "duration_seconds": 8,
+      "voiceover_text_en": "[TODO: Write EN voiceover for Quiz]",
+      "voiceover_text_cn": "[TODO: Write CN voiceover for Quiz]",
+      "character_action": "thinking pose",
+      "environment": "[TODO: Specify environment]",
+      "camera": "medium shot, front, static",
+      "generation_platform": "pixverse",
+      "reusable_asset": null,
+      "on_screen_text": {
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+      }
+    },
+    {
+      "shot_number": 7,
+      "shot_name": "CTA",
+      "start_time": "00:00:48.000",
+      "end_time": "00:00:55.000",
+      "duration_seconds": 7,
+      "voiceover_text_en": "[TODO: Write EN voiceover for CTA]",
+      "voiceover_text_cn": "[TODO: Write CN voiceover for CTA]",
+      "character_action": "waving goodbye",
+      "environment": "[TODO: Specify environment]",
+      "camera": "medium shot, front, static",
+      "generation_platform": "reusable",
+      "reusable_asset": "[TODO: Specify asset filename]",
+      "on_screen_text": {
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+      }
+    }
+  ],
+  "audio": {
+    "voiceover_language": "en+cn",
+    "voiceover_style": "friendly, clear, slightly slow",
+    "bgm_mood": "upbeat, cute",
+    "bgm_file": "[TODO: Select BGM file]"
+  },
+  "seo": {
+    "title": "How to Say \"Thank You\" in Chinese 🇨🇳 谢谢 | Learn Mandarin",
+    "description": "Learn to say 谢谢 in Chinese! Perfect for beginners.",
+    "tags": [
+      "learn chinese thank you",
+      "how to say thank you in chinese",
+      "xiexie"
+    ],
+    "thumbnail_text": "谢谢 = Thank You"
+  }
+}
