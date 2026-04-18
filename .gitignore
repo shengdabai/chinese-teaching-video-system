@@ -3,6 +3,10 @@ __pycache__/
 *.pyc
 *.pyo
 *.log
+node_modules/
+npm-debug.log*
+docs/media/gif-frames/*
+!docs/media/gif-frames/.gitkeep
 
 assets/character_ref/*
 !assets/character_ref/.gitkeep

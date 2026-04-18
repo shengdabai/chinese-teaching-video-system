@@ -1,0 +1,12 @@
+{
+  "name": "chinese-teaching-video-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Chinese teaching animation shorts production system with templates, automation scripts, and a browser console.",
+  "scripts": {
+    "capture:media": "node scripts/capture_console_media.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  }
+}
